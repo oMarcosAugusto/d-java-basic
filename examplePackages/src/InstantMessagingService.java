@@ -30,7 +30,7 @@ public class InstantMessagingService {
         return randomValue > 0.5;
     }
 
-    private void saveMessageHistory() {
+    protected void saveMessageHistory() {
         System.out.println("Saving message history");
     }
 }

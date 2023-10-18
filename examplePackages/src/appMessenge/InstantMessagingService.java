@@ -1,3 +1,5 @@
+package appMessenge;
+
 public class InstantMessagingService {
     private boolean isConnectedToInternet;
 

@@ -1,0 +1,6 @@
+        /*
+            1. Numero para string binaria ... 6 = "110".
+            2. Reverter a string ... "110" = "011".
+            3. Converter de volta para o inteiro "011" = 3.
+                    
+         */

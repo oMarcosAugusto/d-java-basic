@@ -14,4 +14,10 @@ public class Aluno {
         this.nota = nota;
         this.bomComportamento = bomComportamento;
     }
+
+    @Override
+    public String toString() {
+        return "Aluno{" + "nome='" + nome + '\'' + ", nota=" + nota
+                + ", bomComportamento=" + bomComportamento + '}';
+    }
 }

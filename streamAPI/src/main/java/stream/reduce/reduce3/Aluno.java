@@ -1,9 +1,9 @@
-package stream.filter.reduce2;
+package stream.reduce.reduce3;
 
 public class Aluno {
 
     final String nome;
-    final double nota;
+    public final double nota;
     final boolean bomComportamento;
 
     public Aluno(String nome, double nota) {

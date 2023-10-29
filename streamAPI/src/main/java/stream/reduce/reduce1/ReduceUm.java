@@ -1,4 +1,4 @@
-package stream.reduce;
+package stream.reduce.reduce1;
 
 import java.util.Arrays;
 import java.util.List;
